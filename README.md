@@ -16,6 +16,8 @@ http://railstutorial.ru/chapters/4_0/static-pages#top
 
 - do rake assets:precompile for working styles
 
+help with run test at Listing 3.10
+http://stackoverflow.com/questions/17750864/ruby-on-rails-tdd-error-with-bundle-exec-rspec
+
 
 App at production -
-
