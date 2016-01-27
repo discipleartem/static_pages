@@ -1,28 +1,23 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Building demo blog by railstutorial.ru  Chapter 3
 
-Things you may want to cover:
+http://railstutorial.ru/chapters/4_0/static-pages#top
 
-* Ruby version
+* Ruby version 2.1.2
 
-* System dependencies
+* Rails version 4.2.4
 
-* Configuration
+* Ubuntu 14.04
 
-* Database creation
+* Database postgres
 
-* Database initialization
+* Deployment from http://railstutorial.ru/chapters/4_0/a-demo-app#top
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- do rake assets:precompile for working styles
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+App at production -
+
+
+
