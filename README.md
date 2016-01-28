@@ -19,7 +19,9 @@ http://railstutorial.ru/chapters/4_0/static-pages#top
 help with run test at Listing 3.10
 http://stackoverflow.com/questions/17750864/ruby-on-rails-tdd-error-with-bundle-exec-rspec
 
+- no models
+- fail with RSpec
 
-App at production -
+App at production - https://fierce-everglades-48619.herokuapp.com
 
-Listing 3.17
+
